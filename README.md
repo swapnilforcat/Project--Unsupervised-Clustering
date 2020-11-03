@@ -1,4 +1,4 @@
-# Project--Unsupervised-Clustering
+# Project--Customer Segmentation
 
 This is an example of Unsupervised Clustering
 
